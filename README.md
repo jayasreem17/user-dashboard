@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# user-dashboard
+Features: - Display users in a table - Search users by name and email - Sort users by name and company - View detailed user information  API Used: https://jsonplaceholder.typicode.com/users  Tech Stack: - React JS - JavaScript - HTML &amp; CSS
+>>>>>>> 9e2991eb9ddd8ec49645e57c9e3c85f47b524778
